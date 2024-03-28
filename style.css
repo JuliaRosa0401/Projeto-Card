@@ -50,8 +50,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    transition-duration: 1s;
 
     
+}
+.card:hover{
+    scale: 1.3;
 }
 
 /* #z{
